@@ -1,0 +1,242 @@
+body{
+    background: black;
+    text-align: center;
+}
+
+.menu{
+    width: 100%;
+    display: inline-flex;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+    
+}
+
+.menu nav{
+    width: 90%;
+    
+}
+
+.menu nav ul{}
+
+.menu nav ul a{
+    text-decoration: none;
+    color: white;
+}
+
+.menu nav ul a li{
+    display: inline;
+    padding: 2%;
+}
+
+.navic{
+    color: white;
+    padding: 2%;
+    margin-top: 70%;
+}
+
+.slider{
+    border-radius: 5%;
+    margin: 10%;
+}
+
+.card_one{
+    width: 100%;
+    display: inline-flex;
+    color: white;
+}
+
+.card_one div{
+    width: 25%;
+    padding: .5%;
+    background: rgba(255, 255, 255, 0.13);
+    margin: 1%;
+    border-radius: 3%;
+}
+
+.card_one div img{
+    width: 100%;
+    border-radius: 3%;
+}
+
+.card_one button{
+    width: 100%;
+    color: white;
+    background: rgb(134, 4, 4);
+    padding: 2%;
+}
+
+.card_two{
+    width: 100%;
+    display: inline-flex;
+    color: white;
+}
+
+.card_two div{
+    width: 25%;
+    padding: .5%;
+    background: rgba(255, 255, 255, 0.13);
+    margin: 1%;
+    border-radius: 3%;
+}
+
+.card_two div img{
+    width: 100%;
+    border-radius: 3%;
+}
+
+.card_two button{
+    width: 100%;
+    color: white;
+    background: rgb(134, 4, 4);
+    padding: 2%;
+}
+
+.banner{
+    width: 100%;
+}
+
+.banner img{
+    width: 100%;
+    border-radius: 2%;
+}
+
+.footer{
+    display: inline-flex;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.048);
+    text-align: left;
+    padding: .5%;
+    border-radius: 1%;
+    color: white;
+    border: 2px solid gray;
+}
+
+.about{
+    width: 23%;
+}
+
+.ql{
+    width: 23%;
+}
+
+.cs{
+    width: 23%;
+}
+
+.nw{
+    width: 30%;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+
+
+@media only screen and (min-width:320px) and (max-width:425px) {
+
+    body{
+        
+    }
+
+    .menu{
+        
+        
+        
+    }
+
+    .menu nav{
+    
+        
+    }
+
+    .menu nav ul{}
+
+    .menu nav ul a{
+        
+    }
+
+    .menu nav ul a li{
+        
+    }
+
+    .navic{
+    
+    }
+
+    .slider{
+    
+    }
+
+    .card_one{
+        
+        display: block;
+        width: 100%;
+        
+    }
+
+    .card_one div{
+        width: 100%;
+    }
+
+    .card_one div img{
+        
+    }
+
+    .card_one button{
+    
+    }
+
+    .card_two{
+        width: 100%;
+        display: block;
+        
+    
+    }
+
+
+    .card_two div{
+        width: 100%;
+    }
+
+    .card_two div img{
+        
+    }
+
+    .card_two button{}
+
+    .banner{}
+
+    .banner img{
+        
+    }
+
+    .footer{
+        display: block;
+    }
+
+    .about{
+        
+    }
+
+    .ql{
+        
+    }
+
+    .cs{
+        
+    }
+
+    .nw{
+        
+    }
+
+    .footer a{
+        
+    } 
+}
+    
+
+
+
