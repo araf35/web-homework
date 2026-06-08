@@ -158,7 +158,10 @@ body{
     }
 
     .menu nav ul a li{
-        
+        width: 100%;
+        padding: .5%;
+        font-size: small;
+    }
     }
 
     .navic{
